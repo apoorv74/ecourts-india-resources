@@ -5,3 +5,5 @@ The digitization of Indian courts began with the [eCourts project](https://ecomm
 Scraping data from eCourts is a resource intensive process and most people who have worked on eCourts have often cited issues with the data quality. So a better approach might be to review the datasets linked in this repo or to get in touch with the people who have worked on these projects before you plan on curating more data for your study.
 
 Refer to the [datasets](datasets.md) and the [writings](writings.md) page to access the links.
+
+---

@@ -3,6 +3,8 @@
 2. The State of Data in the Judicial Sector - [Link](https://medium.com/civicdatalab/the-state-of-data-in-the-judicial-sector-9a178a143e)
 3. The Judicial Data ecosystem in India - [Link](https://medium.com/civicdatalab/the-state-of-data-in-the-judicial-sector-9a178a143e)
 4. Big Data for Justice - [Link](https://devdatalab.medium.com/big-data-for-justice-f53e0e14c9c9)
+5. Mapping Authoritarian Legality using Data:  In conversation with Lubhyathi Rangarajan - [Link](https://lawschoolpolicyreview.com/2024/09/01/mapping-authoritarian-legality-using-data-in-conversation-with-lubhyathi-rangarajan/)
+
 
 ### Research Papers & Reports
 1. Problems with the e-Courts data - [Link](https://www.nipfp.org.in/publications/working-papers/1911/)
